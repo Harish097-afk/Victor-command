@@ -1,0 +1,15 @@
+{
+    "voice": {
+        "rate": 150,
+        "volume": 1.0,
+        "voice_id": null
+    },
+    "microphone": {
+        "timeout": 5,
+        "phrase_time_limit": 10,
+        "energy_threshold": 4000
+    },
+    "api_keys": {
+        "weather": null
+    }
+}
